@@ -12,6 +12,10 @@ A modern fullstack e-commerce platform built with **Next.js** for discovering, b
 
 This project is currently in active development.
 
+## Note
+
+This project is a private repo. This repo is there to only demonstrate the application.
+
 ## Vision
 
 SoftStyle aims to become a complete e-commerce solution with:
