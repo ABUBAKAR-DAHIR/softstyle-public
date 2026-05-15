@@ -1,7 +1,7 @@
 # SoftStyle
 
 <p align="center">
-  <img src="logo.svg" alt="SoftStyle Logo" width="300"/>
+  <img src="Logo.svg" alt="SoftStyle Logo" width="300"/>
 </p>
 
 A modern fullstack e-commerce platform built with **Next.js** for discovering, browsing, and purchasing fashion products with a smooth and responsive user experience.
